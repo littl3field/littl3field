@@ -10,7 +10,7 @@
 
 ## 📝 Blog
 
-#For my blog, visit here: https://littlefield.co 
+For my blog, visit here: https://littlefield.co 
 
 ## 🌎 Other: 
 
