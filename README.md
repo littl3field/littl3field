@@ -11,6 +11,7 @@
 ## 📝 Blog
 
 For my blog, visit here: https://littlefield.co 
+
 My latest blog post: 
   >[Intelligence Preparation for the Cyber Environment](https://littlefield.co/intelligence-preparation-for-the-cyber-environment-ipce-enhancing-your-security-operations-299762164671?source=collection_home---2------0-----------------------)
 
