@@ -17,7 +17,7 @@ For my blog, visit here: https://littlefield.co
 
 ## 🌎 Other: 
 
-When I'm not working on security I'm most likely tinkering with computers or frequencies. A lot of people like my research within the malicious use of infrasonic/ultrasonic frequencies, you can read about it [here](https://littlefield.co/the-psychoacoustic-effect-of-infrasonic-sonic-and-ultrasonic-frequencies-within-non-lethal-cf05e1fd8673). References to my work:
+When I'm not working on security I'm most likely tinkering with computers or frequencies. I've done a large amount of research here and given a few talks, please reach out if you'd like to chat. A lot of people like my research within the malicious use of infrasonic/ultrasonic frequencies, you can read about it [here](https://littlefield.co/the-psychoacoustic-effect-of-infrasonic-sonic-and-ultrasonic-frequencies-within-non-lethal-cf05e1fd8673). References to my work:
   >[Time Magazine](https://time.com/4895066/sonic-weapons-cuba/)
   
   >[Fox News](https://www.foxnews.com/tech/sonic-weapons-reported-in-cuba-could-sound-be-harnessed-in-an-attack)
