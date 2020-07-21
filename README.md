@@ -3,11 +3,6 @@
 >I am a Security Analyst at the [Microsoft Security Response Centre (MSRC)](https://www.microsoft.com/en-us/msrc) and this is my personal Github page. I work on digital forensics and incident response in-line with on threat intelligence, malware, reverse engineering and automation. 
 >I love to write in python and love open source security tools.
 
-
-## 📫 How to reach me:
-
-[@Littl3field on Twitter](https://twitter.com/littl3field)
-
 ## 📝 Blog
 
 For my blog, visit here: https://littlefield.co 
@@ -21,5 +16,7 @@ When I'm not working on security I'm most likely tinkering with computers or fre
   >[Time Magazine](https://time.com/4895066/sonic-weapons-cuba/)
   
   >[Fox News](https://www.foxnews.com/tech/sonic-weapons-reported-in-cuba-could-sound-be-harnessed-in-an-attack)
+  
+## 📫 How to reach me:
 
-
+[@Littl3field on Twitter](https://twitter.com/littl3field)
