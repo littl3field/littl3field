@@ -1,8 +1,5 @@
 ### 👋 Hi, I'm Littl3field 
 
-<!--
-**littl3field/littl3field** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a Security Analyst at the [Microsoft Security Response Centre (MSRC)](https://www.microsoft.com/en-us/msrc) and this is my personal Github page. I work on digital forensics and incident response in-line with on threat intelligence, malware, reverse engineering and automation. 
 I love to write in python and love open source security tools.
 
