@@ -1,4 +1,4 @@
-## 👋 Into:
+## 👋 Intro:
 
 I am a Security Analyst at the [Microsoft Security Response Centre (MSRC)](https://www.microsoft.com/en-us/msrc) and this is my personal Github page. I work on digital forensics and incident response in-line with threat intelligence, malware, reverse engineering and automation. I love to write in python and love open source security tools.
 
