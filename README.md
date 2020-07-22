@@ -19,7 +19,7 @@ For my blog, visit here: https://littlefield.co
 
 ## 🌎 Other: 
 
-When I'm not working on security I'm most likely tinkering with computers or frequencies. My research extends to using [machine learning for natural language processing](https://littlefield.co/cyber-threat-intelligence-applying-machine-learning-data-mining-and-text-feature-extraction-to-bb00c3b729bc?source=collection_home---2------7-----------------------) in the darkweb to [ultrasonic frequency weapons](https://littlefield.co/the-psychoacoustic-effect-of-infrasonic-sonic-and-ultrasonic-frequencies-within-non-lethal-cf05e1fd8673). Feel free to reach out if you'd like to chat or for enquiring on talks. References to my work:
+When I'm not working on security I'm most likely tinkering with computers or frequencies. My research extends to using [machine learning for natural language processing in the darkweb](https://littlefield.co/cyber-threat-intelligence-applying-machine-learning-data-mining-and-text-feature-extraction-to-bb00c3b729bc?source=collection_home---2------7-----------------------) to [ultrasonic frequency weapons](https://littlefield.co/the-psychoacoustic-effect-of-infrasonic-sonic-and-ultrasonic-frequencies-within-non-lethal-cf05e1fd8673). Feel free to reach out if you'd like to chat or for enquiring on talks. References to my work:
   >[Time Magazine](https://time.com/4895066/sonic-weapons-cuba/)
   
   >[Fox News](https://www.foxnews.com/tech/sonic-weapons-reported-in-cuba-could-sound-be-harnessed-in-an-attack)
