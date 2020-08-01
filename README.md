@@ -2,13 +2,6 @@
 
 I am a Security Analyst at the [Microsoft Security Response Centre (MSRC)](https://www.microsoft.com/en-us/msrc) and this is my personal Github page. I work on digital forensics and incident response in-line with threat intelligence, malware, reverse engineering and automation. I love to write in python and love open source security tools.
 
-## 📝 Blog: 
-
-For my blog, visit here: https://littlefield.co 
-
-🗯 My latest blog post: 
-  >[Intelligence Preparation for the Cyber Environment](https://littlefield.co/intelligence-preparation-for-the-cyber-environment-ipce-enhancing-your-security-operations-299762164671?source=collection_home---2------0-----------------------)
-
 ## 🤖 Projects:
 
 - [Audix](https://github.com/littl3field/Audix) - A PowerShell tool to quickly configure the Windows Event Audit Policies for monitoring & incident response.
@@ -16,6 +9,13 @@ For my blog, visit here: https://littlefield.co
 - [WebHoox](https://github.com/littl3field/WebHoox) - A Flask application that allows SOCs to ingest logs to a SIEM from webhooks.
 - [Shamtraffic](https://github.com/littl3field/Shamtraffic) - A Scrapy tool to generate malicious traffic.
 - [inThreatDNS](https://github.com/littl3field/inthreatDNS) - A tool to pull DNS cache from a Windows system and query against TI (work in progress).
+
+## 📝 Blog: 
+
+For my blog, visit here: https://littlefield.co 
+
+🗯 My latest blog post: 
+  >[Intelligence Preparation for the Cyber Environment](https://littlefield.co/intelligence-preparation-for-the-cyber-environment-ipce-enhancing-your-security-operations-299762164671?source=collection_home---2------0-----------------------)
 
 ## 🌎 Other: 
 
