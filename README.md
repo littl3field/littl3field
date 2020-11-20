@@ -12,14 +12,17 @@ I am a Security Analyst at the [Microsoft Security Response Centre (MSRC)](https
 
 ## 📝 Blog: 
 
-For my blog, visit here: https://littlefield.co 
+For my blogs, visit here: 
+
+- On cyber security and technology - https://littlefield.co 
+- On meditation, presence, consciousnesses, energy and frequencies - 
 
 🗯 My latest blog post: 
   >[Intelligence Preparation for the Cyber Environment](https://littlefield.co/intelligence-preparation-for-the-cyber-environment-ipce-enhancing-your-security-operations-299762164671?source=collection_home---2------0-----------------------)
 
 ## 🌎 Other: 
 
-When I'm not working on security I'm most likely tinkering with computers or frequencies. My research extends from using [machine learning for natural language processing in the darkweb](https://littlefield.co/cyber-threat-intelligence-applying-machine-learning-data-mining-and-text-feature-extraction-to-bb00c3b729bc?source=collection_home---2------7-----------------------) to [ultrasonic frequency weapons](https://littlefield.co/the-psychoacoustic-effect-of-infrasonic-sonic-and-ultrasonic-frequencies-within-non-lethal-cf05e1fd8673). Feel free to reach out if you'd like to chat or for enquiring on talks. References to my work:
+When I'm not working on security I'm most likely exploring the mind, tinkering with computers or frequencies. I'm passionate about meditation, frequencies, energy and quantum thoery. My research extends from using [machine learning for natural language processing in the darkweb](https://littlefield.co/cyber-threat-intelligence-applying-machine-learning-data-mining-and-text-feature-extraction-to-bb00c3b729bc?source=collection_home---2------7-----------------------) to [ultrasonic frequency weapons](https://littlefield.co/the-psychoacoustic-effect-of-infrasonic-sonic-and-ultrasonic-frequencies-within-non-lethal-cf05e1fd8673). Feel free to reach out if you'd like to chat or for enquiring on talks. References to my work:
   >[Time Magazine](https://time.com/4895066/sonic-weapons-cuba/)
   
   >[Fox News](https://www.foxnews.com/tech/sonic-weapons-reported-in-cuba-could-sound-be-harnessed-in-an-attack)
