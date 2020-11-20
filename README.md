@@ -15,7 +15,7 @@ I am a Security Analyst at the [Microsoft Security Response Centre (MSRC)](https
 For my blogs, visit here: 
 
 - On cyber security and technology - https://littlefield.co 
-- On meditation, presence, consciousnesses, energy and frequencies - 
+- On meditation, presence, consciousnesses, energy and frequencies - https://medium.com/aconsciousmind
 
 🗯 My latest blog post: 
   >[Intelligence Preparation for the Cyber Environment](https://littlefield.co/intelligence-preparation-for-the-cyber-environment-ipce-enhancing-your-security-operations-299762164671?source=collection_home---2------0-----------------------)
