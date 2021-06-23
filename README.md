@@ -19,6 +19,7 @@ For my blogs, visit here:
 
 🗯 My latest blog post: 
   >[Intelligence Preparation for the Cyber Environment](https://littlefield.co/intelligence-preparation-for-the-cyber-environment-ipce-enhancing-your-security-operations-299762164671?source=collection_home---2------0-----------------------)
+  >[The theory of relativity, quantum mechanics and Early Buddhism’s Anattā (Non-self)](https://athinkingmind.com/the-theory-of-relativity-quantum-mechanics-and-early-buddhisms-anattā-non-self-274a5fcd27de)
 
 ## 🌎 Other: 
 
